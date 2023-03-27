@@ -1,0 +1,2 @@
+robot_gui_bridge
+-DCATKIN_DEVEL_PREFIX=/home/onuchukwu/Documents/Projects/bridge_tut/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/onuchukwu/Documents/Projects/bridge_tut/catkin_ws/install -G Unix Makefiles
